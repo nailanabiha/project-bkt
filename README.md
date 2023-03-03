@@ -1,2 +1,2 @@
 # project-bkt
-project bangkit
+project bangkit, first git course
